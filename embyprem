@@ -12,5 +12,5 @@ http:
       
 script-providers:
   EmbyPremiere:
-    url: https://raw.githubusercontent.com/rartv/SurgeScript/main/EmbyPremiere/EmbyPremiere.js
+    url: https://raw.githubusercontent.com/williamcanon1/stash/main/embypre.js?token=GHSAT0AAAAAABZBPIWOWJ4WS3TU6UV2K7ZMYZZVNTA
     interval: 86400
